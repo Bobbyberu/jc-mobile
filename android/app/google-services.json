@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "36055398753",
+    "firebase_url": "https://japanese-cards-e1996.firebaseio.com",
+    "project_id": "japanese-cards-e1996",
+    "storage_bucket": "japanese-cards-e1996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36055398753:android:6700dae7a8f58f314c2d20",
+        "android_client_info": {
+          "package_name": "com.bobbyberu.japanesecards.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36055398753-8ve894b444epq42b2ap77s5non6gu8mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHUH6o0YCyZzOG_C8lTZ3GGcgAGn80PFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36055398753-8ve894b444epq42b2ap77s5non6gu8mr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36055398753-7p5405v5fdcq0plu6kifi7daceu411tt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bobbyberu.japanesecards.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
